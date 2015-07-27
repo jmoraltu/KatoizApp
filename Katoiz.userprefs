@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Model/Device.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller/GameBoardController.cs" Line="785" Column="26" />
+      <File FileName="Assets/Scripts/Controller/MovesBoardController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Controller/MultiplayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/GoogleAnalyticsV4/GoogleAnalyticsV4.cs" Line="125" Column="1" />
+      <File FileName="Assets/Scripts/Model/Device.cs" Line="53" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

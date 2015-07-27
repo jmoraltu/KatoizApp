@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<languages>
+    <English>
+         <string name="australia">Australia</string>
+         <string name="brasil">Brazil</string>
+         <string name="finland">Finland</string>
+         <string name="france">Francia</string>
+         <string name="japan">Japan</string>
+         <string name="india">India</string>
+  		 <string name="portugal">Portugal</string>
+         <string name="spain">Spain</string>
+         <string name="united_states">United States</string>
+         <string name="united_kindon">United Kindon</string>
+         <string name="netherlands">Netherlands</string>
+    </English>
+ 
+    <Spanish>
+         <string name="australia">Australia</string>
+         <string name="brasil">Brasil</string>
+         <string name="japan">Japón</string>
+         <string name="finland">Finlandia</string>
+         <string name="france">Francia</string>
+         <string name="india">India</string>
+         <string name="portugal">Portugal</string>
+         <string name="spain">España</string>
+         <string name="united_states">Estados Unidos</string>
+         <string name="united_kindon">Inglaterra</string>
+         <string name="netherlands">Holanda</string>
+    </Spanish>
+</languages>
+

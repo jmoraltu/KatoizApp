@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<languages>
+    <English>
+         <string name="app_name">Katoiz</string>
+         <string name="new_game">New Game</string>
+         <string name="game_invites">Game Invites</string>
+         <string name="game_rules">Rules</string>
+         <string name="game_friends">Friends</string>
+         <string name="game_settings">Configuration</string>
+         <string name="play_game">Play</string>
+         <string name="game_ranking">Ranking</string>
+         <string name="katoiz_wc">Katoiz WC</string>
+         <string name="theme_profile_tab">Theme Setup</string>
+         <string name="user_profile_tab">User Profile</string>
+         <string name="avatar_settings_title">Avatar Settings</string>
+         <string name="avatar_name">Avatar Name</string>
+         <string name="user_gender">Gender</string>
+         <string name="user_allow_match_invites">Allow match invites from people not in my friends list</string>
+         <string name="user_allow_chat">Allow Chat</string>
+         <string name="user_public_profile">Public Profile</string>
+         <string name="user_personal_details_title">Personal Details</string>
+         <string name="user_name">Name</string>
+         <string name="user_surname">Surname</string>
+         <string name="user_phone">Mobile Phone</string>
+         <string name="user_allow_offers">Send me promotional offers for in-game content</string>
+         <string name="user_country">Country</string>
+         <string name="user_min_level">Minimum Match Level</string>
+         <string name="popup_warning_title">Warning</string>
+         <string name="popup_warning_text">You have to choose a correct image from your Picture or Galery</string>
+    </English>
+ 
+    <Spanish>
+        <string name="app_name">Katoiz</string>
+        <string name="new_game">Nueva Partida</string>
+        <string name="game_invites">Invitaciones</string>
+        <string name="game_rules">Reglas</string>
+        <string name="game_friends">Amigos</string>
+        <string name="game_settings">Configuración</string>
+         <string name="play_game">Jugar</string>
+         <string name="game_ranking">Ranking</string>
+         <string name="katoiz_wc">Katoiz WC</string>
+         <string name="theme_profile_tab">Configuración Tema</string>
+         <string name="user_profile_tab">Perfil de usuario</string>
+         <string name="avatar_settings_title">Configuración de Avatar</string>
+         <string name="avatar_name">Nombre Avatar</string>
+         <string name="user_gender">Sexo</string>
+         <string name="user_allow_match_invites">Permitir invitaciones de personas que no se encuentran en la lista de amigos</string>
+         <string name="user_allow_chat">Permitir Chat</string>
+         <string name="user_public_profile">Perfil Público</string>
+         <string name="user_personal_details_title">Detalle</string>
+         <string name="user_name">Nombre</string>
+         <string name="user_surname">Apellido</string>
+         <string name="user_phone">Telf Móvil</string>
+         <string name="user_allow_offers">Enviarme ofertas promocionales</string>
+         <string name="user_country">País</string>
+         <string name="user_min_level">Nivel mínimo aceptado</string>
+    </Spanish>
+</languages>
+
